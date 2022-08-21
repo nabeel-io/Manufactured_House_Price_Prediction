@@ -278,10 +278,6 @@ model.evaluate(test, test_labels)
 
     28100/28100 [==============================] - 23s 825us/step - loss: 32.3987 - root_mean_squared_error: 5.6920
 
-
-
-
-
     [32.398651123046875, 5.691981315612793]
 
 
