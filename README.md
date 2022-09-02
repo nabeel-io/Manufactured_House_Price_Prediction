@@ -1,4 +1,4 @@
-# **NYC Taxi Total Fare Prediction**
+# **NYC Yellow Taxi Fare Prediction**
 
 ### **About**
 *In this project we try to predict the `total fare` for NYC yellow taxi data provided by TLC Inc. We use `LightGBM` boosting framework and 
